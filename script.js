@@ -1,4 +1,3 @@
-//your JS code here. If required.
 document.addEventListener('DOMContentLoaded', () => {
     // Function to get cookie value
     function getCookie(name) {
